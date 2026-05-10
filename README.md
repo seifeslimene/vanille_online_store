@@ -12,4 +12,7 @@ A simple responsive SPA web app of an online store (ecommerce), with vanilla JS,
 
 ## Sceenshots of build so far
 
+![Vanille Online Store Screenshot 1](./pics/vanille_online_store_1.jpeg)
+![Vanille Online Store Screenshot 2](./pics/vanille_online_store_2.jpeg)
+
 * Open to suggestions and improvements! Have fun!!!
